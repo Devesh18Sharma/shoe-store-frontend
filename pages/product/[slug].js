@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { IoMdHeartEmpty } from "react-icons/io";
-import Wrapper from "@/components/Wrapper";
+import Wrapper from "@/components/wrapper";
 import ProductDetailCrousel from "@/components/ProductDetailCrousel";
 import RelatedProducts from "@/components/RelatedProducts";
 import { fetchDataFromApi } from "@/utils/api";
