@@ -1,6 +1,6 @@
 import HeroBanner from "@/components/HeroBanner";
 import ProductCard from "@/components/ProductCard";
-import Wrapper from "@/components/Wrapper";
+import Wrapper from "@/components/wrapper";
 import { fetchDataFromApi } from "@/utils/api";
 export default function Home({ products }) {
     return (
